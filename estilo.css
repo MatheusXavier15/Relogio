@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(91, 114, 216);
+    font: normal 15pt Arial;
+}
+header{
+    color: white;
+    text-align: center;
+}
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+footer{
+    color: white;
+    text-align: center;
+}
+div {
+    
+    text-align: center;
+    padding: 10px;
+}
+div#msg{
+    border-radius: 10px;
+    border-color: black;
+    border: solid 1pt rgba(0, 0, 0, 0.3);
+    padding: 15px;
+    margin: auto;
+    width: 200px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+div#Matheus{
+    border-radius: 10px;
+    border: solid 1pt rgba(0, 0, 0, 0.3);
+    margin: auto;
+    width: 250px;
+    height: 40px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+p#relogio {
+    color: black;
+    font: normal 18pt Arial;
+    text-align: center;
+    margin: 8px;
+}
